@@ -1,0 +1,12 @@
+{
+  "ID":"6E2338E04E31475D9ACDBD497C9D8C3F",
+  "ActionKeyword":"SK",
+  "Name":"Stock",
+  "Description":"Get stock price",
+  "Author":"hhelibeb",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"",
+  "IcoPath": "img\\stock.ico",
+  "ExecuteFileName":"stock.py"
+}
