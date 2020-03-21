@@ -14,3 +14,9 @@ Install Stock with Wox.
 ```
 wpm install Stock
 ```
+
+## ToDoList
+- [ ] Custom Stock List.
+
+## Development Reference
+[wox-python-plugins](https://github.com/jianbing/wox-python-plugins)
