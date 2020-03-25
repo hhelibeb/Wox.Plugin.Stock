@@ -2,11 +2,11 @@
   "ID":"6E2338E04E31475D9ACDBD497C9D8C3F",
   "ActionKeyword":"SK",
   "Name":"Stock",
-  "Description":"Get stock price",
+  "Description":"Get stock prices",
   "Author":"hhelibeb",
-  "Version":"0.0.1",
+  "Version":"1.0.0",
   "Language":"python",
-  "Website":"",
+  "Website":"https://github.com/hhelibeb/Wox.Plugin.Stock",
   "IcoPath": "img\\stock.ico",
   "ExecuteFileName":"stock.py"
 }

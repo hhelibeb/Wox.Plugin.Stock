@@ -31,7 +31,7 @@ def load_module():
         yield
     except:
         Log.error(traceback.format_exc())
-        os.system(r'explorer "{}"'.format(os.getcwd()))
+        # os.system(r'explorer "{}"'.format(os.getcwd()))
 
 def _debug(func):
     @functools.wraps(func)
@@ -42,7 +42,7 @@ def _debug(func):
             error = traceback.format_exc()
             WoxAPI.show_msg("error", error)
             Log.error(error)
-            os.system(r'explorer "{}"'.format(os.getcwd()))
+            # os.system(r'explorer "{}"'.format(os.getcwd()))
 
     return wrap
 
