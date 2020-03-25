@@ -19,7 +19,10 @@ wpm install Stock
 Show the custom list by ```SK -ALL``` or ```SK -all```.
 ![](https://github.com/hhelibeb/Wox.Plugin.Stock/blob/master/preview/custom%20list.png)
 
-Change your custom by editing ```Wox\Plugins\list.json```.
+Change your custom by editing ```Wox\Plugins\Stock{GUID}\list.json```.
+
+## Error Log
+If the plugin does not work, see ```Wox\Plugins\Stock{GUID}\error.log``` for the error details.
 
 ## ToDoList
 - [x] Custom Stock List.
