@@ -1,7 +1,7 @@
 # Wox.Plugin.Stock
 Stock plugin for Wox-launcher
 
-## Install
+## Installation
 Install requests & Beautiful Soup with shell.
 ```console
 $ pip install requests
