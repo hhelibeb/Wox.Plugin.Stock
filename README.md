@@ -1,6 +1,10 @@
 # Wox.Plugin.Stock
 Stock plugin for Wox-launcher
 
+Preview:
+
+![](https://github.com/hhelibeb/Wox.Plugin.Stock/blob/master/preview/preview1.gif)
+
 ## Installation
 Install requests & Beautiful Soup with shell.
 ```console
